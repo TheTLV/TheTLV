@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @TheTLV
-- 👀 I’m interested in sleeping , eating and reading lightnovel
+- 👀 I’m interested in 
 - 🌱 I’m currently learning about SoftwareEngineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can contact with me throught gmail ngochoang1080@gmail.com or facebook https://www.facebook.com/susan1080 ( I rarely check gmail ... and fb too )
+- 📫 You can contact with me through gmail ngochoang1080@gmail.com or facebook https://www.facebook.com/susan1080 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I have a lot of free time, but I don't often use Facebook or other social networks
+- ⚡ Fun fact: 
 
 <!---
 TheTLV/TheTLV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
