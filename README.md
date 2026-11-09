@@ -14,7 +14,7 @@
 - 🎓 Ngành học / Định hướng: **Software Engineering**
 - 🌱 Đang tiếp tục củng cố kiến thức nền tảng và làm các bài tập, dự án thực tế.
 - 💬 Liên hệ với tôi qua:
-  - **Email:** [ngochoang1080@gmail.com](mailto:ngochoang1080@gmail.com)
+  - **Email:** [phuhn1080@gmail.com](mailto:phuhn1080@gmail.com)
   - **Facebook:** [susan1080](https://www.facebook.com/susan1080)
 
 ---
