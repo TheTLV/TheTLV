@@ -11,8 +11,9 @@
 ---
 
 ### 👨‍💻 Về tôi
-- 🎓 Ngành học / Định hướng: **Software Engineering**
-- 🌱 Đang tiếp tục củng cố kiến thức nền tảng và làm các bài tập, dự án thực tế.
+- 💼 Kinh nghiệm: **DevOps Engineer @ Sendo**
+- 🎓 Định hướng: **DevOps & Software Engineering**
+- 🌐 Website Portfolio: **[thetlv.github.io/portfolio](https://thetlv.github.io/portfolio/)**
 - 💬 Liên hệ với tôi qua:
   - **Email:** [phuhn1080@gmail.com](mailto:phuhn1080@gmail.com)
   - **Facebook:** [susan1080](https://www.facebook.com/susan1080)
