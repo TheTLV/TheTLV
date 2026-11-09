@@ -30,7 +30,7 @@
 
 **Cơ sở dữ liệu**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase&theme=dark" alt="Databases" />
 </p>
 
 **Công cụ & Môi trường**
