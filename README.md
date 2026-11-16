@@ -45,20 +45,12 @@
 
 ### 📊 Thống kê GitHub
 
-<div align="center">
-  <!-- Thống kê tổng quan -->
-  <img src="https://github-readme-stats.shion.dev/api?username=TheTLV&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
-  
-  <br/><br/>
-
-  <!-- Chuỗi commit liên tục (Streak Stats) -->
-  <img src="https://streak-stats.demolab.com/?user=TheTLV&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-  <br/><br/>
-
-  <!-- Top ngôn ngữ commit nhiều nhất -->
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TheTLV&layout=compact&hide_border=true&count_private=true&theme=tokyonight&langs_count=8" alt="Top Languages" />
-</div>
+<!-- 3 thẻ nằm trên cùng một hàng: cùng height để thẳng hàng, tổng chiều rộng ~820px vừa khung README -->
+<p align="center">
+  <img height="110" src="https://github-readme-stats.shion.dev/api?username=TheTLV&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&theme=tokyonight" alt="GitHub Stats" />
+  <img height="110" src="https://streak-stats.demolab.com/?user=TheTLV&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="110" src="https://github-readme-stats.shion.dev/api/top-langs/?username=TheTLV&layout=compact&hide_border=true&count_private=true&theme=tokyonight&hide=shaderlab,hlsl&langs_count=5" alt="Top Languages" />
+</p>
 
 ---
 
