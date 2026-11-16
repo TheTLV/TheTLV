@@ -51,7 +51,7 @@
 
 ---
 
-### 📬 Liên hệ
+### 📬 Contact info:
 
 <p align="center">
   <a href="mailto:phuhn1080@gmail.com" title="Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Email" /></a>
@@ -59,8 +59,6 @@
   <a href="https://www.facebook.com/susan1080" title="Facebook"><img src="https://cdn.simpleicons.org/facebook/0866FF" width="36" height="36" alt="Facebook" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/TheTLV" title="GitHub"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff" /><img src="https://cdn.simpleicons.org/github/181717" width="36" height="36" alt="GitHub" /></picture></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://thetlv.github.io/portfolio/" title="Portfolio"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="36" height="36" alt="Portfolio" /></a>
 </p>
 
 ---
