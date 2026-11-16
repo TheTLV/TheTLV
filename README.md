@@ -11,8 +11,8 @@
 ---
 
 ### 👨‍💻 About me
-- 👋 I'm **Hoang Ngoc Phu**, an early-career engineer from Vietnam
-- 💼 Experience: **DevOps Engineer** at <a href="https://www.sendo.vn/" title="Sendo"><img src="https://raw.githubusercontent.com/TheTLV/portfolio/main/assets/sendo-wordmark.svg" height="22" align="center" alt="Sendo" /></a>
+- 👋 I'm **Hoang Ngoc Phu**, a DevOps & Software Engineer from Vietnam
+- 💼 Experience: **DevOps Intern** at <a href="https://www.sendo.vn/" title="Sendo"><img src="https://raw.githubusercontent.com/TheTLV/portfolio/main/assets/sendo-wordmark.svg" height="22" align="center" alt="Sendo" /></a>
 - 🎯 Focus: **DevOps & Software Engineering**: containers, automation, backend with .NET
 - 🌐 Portfolio: **[thetlv.github.io/portfolio](https://thetlv.github.io/portfolio/)**
 
