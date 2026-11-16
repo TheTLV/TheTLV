@@ -10,28 +10,29 @@
 
 ---
 
-### 👨‍💻 Về tôi
-- 💼 Kinh nghiệm: **DevOps Engineer @ Sendo**
-- 🎓 Định hướng: **DevOps & Software Engineering**
-- 🌐 Website Portfolio: **[thetlv.github.io/portfolio](https://thetlv.github.io/portfolio/)**
+### 👨‍💻 About me
+- 👋 I'm **Hoang Ngoc Phu**, an early-career engineer from Vietnam
+- 💼 Experience: **DevOps Engineer** at <a href="https://www.sendo.vn/" title="Sendo"><img src="https://raw.githubusercontent.com/TheTLV/portfolio/main/assets/sendo-wordmark.svg" height="22" align="center" alt="Sendo" /></a>
+- 🎯 Focus: **DevOps & Software Engineering**: containers, automation, backend with .NET
+- 🌐 Portfolio: **[thetlv.github.io/portfolio](https://thetlv.github.io/portfolio/)**
 
 ---
 
-### 🛠️ Kỹ năng & Công cụ từng sử dụng
+### 🛠️ Skills & Tools
 
 <div align="center">
 
-**Ngôn ngữ lập trình**
+**Languages**
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,cs,js,html,css&theme=dark" alt="Languages" />
 </p>
 
-**Cơ sở dữ liệu**
+**Databases**
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase&theme=dark" alt="Databases" />
 </p>
 
-**Công cụ & Môi trường**
+**Tools & Environment**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio&theme=dark" alt="Tools" />
 </p>
@@ -40,9 +41,9 @@
 
 ---
 
-### 📊 Thống kê GitHub
+### 📊 GitHub Stats
 
-<!-- 3 thẻ nằm trên cùng một hàng: cùng height để thẳng hàng -->
+<!-- Three cards on one row: shared height keeps them aligned -->
 <p align="center">
   <img height="110" src="https://github-readme-stats.shion.dev/api?username=TheTLV&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&theme=tokyonight" alt="GitHub Stats" />
   <img height="110" src="https://streak-stats.demolab.com/?user=TheTLV&theme=tokyonight&hide_border=true&hide_total_contributions=true&card_width=330&timezone=Asia/Ho_Chi_Minh" alt="GitHub Streak" />
